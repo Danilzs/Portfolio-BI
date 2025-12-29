@@ -17,7 +17,7 @@ Nova tela adicionada focada em logística e performance de vendas no marketplace
 *   **Receita Total:** R$ 1,36 Bilhões.
 *   **Número de Pedidos:** 99,44 Mil.
 *   **Ticket Médio:** R$ 13,67 Mil.
-*   **Insights de Logística:** Análise de pedidos atrasados por estado (AL, MA, PI, CE, SE) e volume de entregas mensal.
+*   **Insights de Logística:** Análise de pedidos atrasados por estado (TOP 5) e volume de entregas mensal.
 
 ## 🗂 Estrutura dos Dados
 
